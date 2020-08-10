@@ -9,7 +9,15 @@
   "keywords": [
     "VueJS"
   ],
-  "author": "Alper Konuralp",
+  "homepage": "https://github.com/DogusTeknoloji/vuejs-html-demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DogusTeknoloji/vuejs-html-demo.git"
+  },
+  "author": {
+    "name": "Alper Konuralp",
+    "email": "alper.konuralp@d-teknoloji.com.tr"
+  },
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
