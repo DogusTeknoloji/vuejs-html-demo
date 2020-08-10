@@ -1,0 +1,17 @@
+{
+  "name": "vue-html-demo",
+  "version": "1.0.0",
+  "description": "Vue.js in HTML page demo project for Vue.js e-learnings on Doğuş Teknoloji.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VueJS"
+  ],
+  "author": "Alper Konuralp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
